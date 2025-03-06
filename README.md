@@ -38,3 +38,8 @@ Added UI components for displaying the word, guessed letters, and remaining atte
 
 Enabled replay functionality.
 
+how to run
+
+click on view pallete 
+ run and debug the session
+
